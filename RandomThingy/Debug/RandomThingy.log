@@ -1,0 +1,4 @@
+﻿  RandomThingy.cpp
+C:\Users\Avoidy\source\repos\RandomThingy\RandomThingy\RandomThingy.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Avoidy\source\repos\RandomThingy\RandomThingy\RandomThingy.cpp(8,31): warning C4101: 'GuessNumber': unreferenced local variable
+  RandomThingy.vcxproj -> C:\Users\Avoidy\source\repos\RandomThingy\Debug\RandomThingy.exe
